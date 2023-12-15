@@ -1,12 +1,12 @@
 # Kartikey Saran
 
 Hello! 👋 I'm Kartikey Saran, a passionate individual with skills in Python, Jupyter Notebook, NLP, Data Science, AI, C#, Unity Game Development, Visual Studio Code, Kali Linux, PyCharm, Blockchain Development, Pandas, Deep Learning, Machine Learning, Java, Android App Development, and Website Development.
-
+----------------------------------------------------------------------------------
 ## About Me
 
 - 📧 Email: kartiksaran07@gmail.com
 - 🎥 YouTube: [@CodeYard]
-
+  
 ## Skills
 These are not the limitations !
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ These are not the limitations !
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-563D7C?style=flat)
-
+-----------------------------------------
 ## Open Source Contributions
 
 [there are so many open source contributions you can get them on my profile. :)
@@ -45,11 +45,11 @@ This was First One !
 Stats : Currently A student And Learning ....
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaborations in mind.
---------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Amit sir's quote : 
 When The going goes tough !
 the Tough goes going.
--------------------------------------
+
 Do it ! Work Hard ! Only Work !
 -------------------------------------
 <!---
