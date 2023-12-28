@@ -15,9 +15,6 @@
        alt="snake" /></a>
 </div>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
-</a>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
