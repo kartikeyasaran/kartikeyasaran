@@ -40,7 +40,12 @@
 - 📫 Feel free to reach me out **kartiksaran07@gmail.com**
 
 - 🏠 Also We've a youtube channel : @Codeyard
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeyard01&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+ <!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=codeyard01&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <!--Intro end-->
 
@@ -119,13 +124,6 @@
 3.*Github* : CodeYard01 
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=codeyard01&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
