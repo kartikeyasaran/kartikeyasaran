@@ -16,7 +16,7 @@
 </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 </a>
 
 <!--h2 without bottom border-->
@@ -32,13 +32,15 @@
 
 - 🌱 I’m currently learning **Mongo DB, Flask**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **Javascript, C#**
+- ☁️ I've keen interest in programming. So,I'm learning **Javascript, C#**
 
-- 💬 Ask me about **Python, Machine Learning, Artificial Intellegence, Blackchain**
+- 💬 Ask me about **Python, Machine Learning, Artificial Intellegence, Blockchain**
 
 - 📫 Feel free to reach me out **kartiksaran07@gmail.com**
 
 - 🏠 Also We've a youtube channel : @Codeyard
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeyard01&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 <!--Intro end-->
 
 
