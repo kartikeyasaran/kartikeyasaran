@@ -39,7 +39,7 @@
 
 - 📫 Feel free to reach me out **kartiksaran07@gmail.com**
 
-- 🏠 Also We've a youtube channel : @Codeyard
+- 🏠 Also We've a youtube channel : ![CodeYard](https://www.youtube.com/@Code_Yard)
  <!--profile visit count-->
 <div align="center">
   
