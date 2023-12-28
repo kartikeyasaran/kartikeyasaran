@@ -16,6 +16,10 @@
 </div>
 
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ6c2Z2Z2t5bzQ0cmV2dnN0cnEwcXJ3bzNvbTM2Z2hjaTVwaTYwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
