@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-    Myself Kartikey And I have No limitations!
+    ./CodeYard01/CodeYard01/README.md
+    >>> Myself Kartikey Saran !
 ------------
 
 <!--- snake -->
@@ -38,7 +39,7 @@
 - 🏠 Also We've a youtube channel : https://www.youtube.com/@Code_Yard
  <!--profile visit count-->
  
-        Must Remember Who Shook The Jar ?
+        There is only one thing that i don't have and that is limitations !
  ----
 <div align="center">
   
