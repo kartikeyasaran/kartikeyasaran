@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Artificial intellegence, Machine learning, Game dev**
 
-- 🌱 I’m currently learning **Mongo DB, Flask**
+- 🌱 I’m currently learning **Mongo DB, Flask, Typescript, Web3 with Solana**
 
 - ☁️ I've keen interest in programming. So,I'm learning **Javascript, C#**
 
@@ -119,7 +119,7 @@
 <!--icons and links-->
 1.*Email* : kartiksaran07@gmail.com 
 
-2.*Youtube* : @CodeYard 
+2.*Youtube* : @coderkartikey
 
 3.*Github* : @kartikeyasaran
 </p>
