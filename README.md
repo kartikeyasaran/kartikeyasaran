@@ -36,10 +36,10 @@
 
 - 📫 Feel free to reach me out **kartiksaran07@gmail.com**
 
-- 🏠 Also We've a youtube channel : https://www.youtube.com/@Code_Yard
+- 🏠 Also We've a youtube channel : https://www.youtube.com/@coderkartikey
  <!--profile visit count-->
  
-        There is only one thing that i don't have and that is limitations !
+        Eat,Code,Sleep !
  ----
 <div align="center">
   
